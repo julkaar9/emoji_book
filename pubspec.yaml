@@ -1,0 +1,14 @@
+name: emoji_book
+description: A library for working with emojis in Dart.
+version: 0.0.1 
+homepage: https://chatmetry.com/
+repository: https://github.com/julkaar9/emoji_book
+environment:
+  sdk: '>=2.19.0-146.2.beta <3.0.0'
+
+dependencies:
+  characters: ^1.3.0
+  collection: ^1.15.0
+
+dev_dependencies:
+  test: ^1.16.0
